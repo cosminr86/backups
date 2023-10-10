@@ -89,15 +89,6 @@ off_when_shutdown = True
 restart_klipper_when_powered = true
 initial_state = off
 
-[update_manager klipper_tmc_autotune]
-type = git_repo
-channel = dev
-path = ~/klipper_tmc_autotune
-origin = https://github.com/andrewmcgr/klipper_tmc_autotune.git
-managed_services = klipper
-primary_branch = main
-install_script = install.sh
-
 [update_manager beacon]
 type = git_repo
 channel = dev
