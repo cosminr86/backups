@@ -13,6 +13,7 @@ cors_domains =
 	http://my.mainsail.xyz
 	http://*.local
 	http://*.lan
+	https://*.epicphoto.xyz
 trusted_clients = 
 	127.0.0.1
 	10.0.0.0/8
