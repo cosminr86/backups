@@ -14,6 +14,7 @@ cors_domains =
 	http://*.local
 	http://*.lan
 	https://*.epicphoto.xyz
+	https://*.cosminrosca.ro
 trusted_clients = 
 	127.0.0.1
 	10.0.0.0/8
@@ -24,6 +25,7 @@ trusted_clients =
 	FE80::/10
 	::1/128
 	voron.epicphoto.xyz
+	voron.cosminrosca.ro
 
 [octoprint_compat]
 
