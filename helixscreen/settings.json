@@ -162,6 +162,15 @@
         "timestamp": 1793038917,
         "total": 333,
         "window": 1
+      },
+      {
+        "phases": {
+          "7": 1
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793383325,
+        "total": 398,
+        "window": 1
       }
     ]
   },
@@ -273,7 +282,7 @@
             "temperature_sensor PITB",
             "temperature_sensor raspberry_pi"
           ],
-          "timestamp": "2026-10-30T17:55:25Z"
+          "timestamp": "2026-10-30T18:53:51Z"
         },
         "optional": [
           "controller_fan Electronics",
@@ -700,10 +709,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.44676682353019714
+        "heat_rate": 0.41346022486686707
       },
       "heater_bed": {
-        "heat_rate": 4.0918498039245605
+        "heat_rate": 3.6918013095855713
       }
     }
   },
