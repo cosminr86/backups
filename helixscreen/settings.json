@@ -56,115 +56,6 @@
     "entries": [
       {
         "phases": {
-          "7": 120
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792350370,
-        "total": 218,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 82
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792424469,
-        "total": 173,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 10,
-          "7": 139
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792426598,
-        "total": 417,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 135
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792429592,
-        "total": 288,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 62
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792926685,
-        "total": 310,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 70
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792931134,
-        "total": 320,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 118
-        },
-        "temp_bucket": 2,
-        "timestamp": 1793034739,
-        "total": 331,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 135
-        },
-        "temp_bucket": 2,
-        "timestamp": 1793598319,
-        "total": 351,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 119
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792752938,
-        "total": 1272,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 56
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793030579,
-        "total": 313,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 109
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793038917,
-        "total": 333,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 1
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793383325,
-        "total": 398,
-        "window": 1
-      },
-      {
-        "phases": {
           "7": 106
         },
         "temp_bucket": 1,
@@ -188,6 +79,114 @@
         "temp_bucket": 1,
         "timestamp": 1793941544,
         "total": 415,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 26
+        },
+        "temp_bucket": 1,
+        "timestamp": 1794123404,
+        "total": 422,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 108
+        },
+        "temp_bucket": 1,
+        "timestamp": 1794133927,
+        "total": 346,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 135
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793598319,
+        "total": 351,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 109
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794124517,
+        "total": 284,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 106
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794125560,
+        "total": 313,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 109
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794126109,
+        "total": 291,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 103
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794127329,
+        "total": 340,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 110
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794127879,
+        "total": 276,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 100
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794128965,
+        "total": 256,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 104
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794129996,
+        "total": 310,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 101
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794134751,
+        "total": 297,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 107
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794135346,
+        "total": 269,
         "window": 1
       }
     ]
@@ -300,7 +299,7 @@
             "temperature_sensor PITB",
             "temperature_sensor raspberry_pi"
           ],
-          "timestamp": "2026-11-06T04:58:38Z"
+          "timestamp": "2026-11-08T07:29:40Z"
         },
         "optional": [
           "controller_fan Electronics",
@@ -727,10 +726,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.4027080535888672
+        "heat_rate": 0.6105831265449524
       },
       "heater_bed": {
-        "heat_rate": 3.3385865688323975
+        "heat_rate": 3.2643871307373047
       }
     }
   },
